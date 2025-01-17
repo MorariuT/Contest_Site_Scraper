@@ -60,7 +60,7 @@ scr.plot_wordcloud("tags", open_plt_window=False);
 
 url_path = scr.compile_report();
 
-print("Access this url for result: " + url_path)l
+print("Access this url for result: " + url_path)
 
 
 
