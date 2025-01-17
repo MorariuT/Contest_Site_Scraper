@@ -17,3 +17,28 @@ example: python3 ContestSiteScraper.py infoarena MorariuT /tmp/conf.json
 
 avalible site names: codeforces, pbinfo, infoarena, kilonova
 ```
+
+```
+(venv) tudor@tudors-MacBook-Pro Cramschool_HW1 % python3 ContestSiteScraper.py codeforces morariu.tudor
+
+  _                          __              __                     
+ /   _  ._ _|_  _   _ _|_   (_  o _|_  _    (_   _ ._ _. ._   _  ._ 
+ \_ (_) | | |_ (/_ _>  |_   __) |  |_ (/_   __) (_ | (_| |_) (/_ |  
+                                                         |          
+mkdir: ./plots: File exists
+Getting morariu.tudor submissions from codeforces
+Got 1823 entries
+Plotting. Generating output in ./plots/morariu.tudor
+Access this url for result: file:///Users/tudor/Documents/Work AI/Cramschool_HW1/plots/morariu.tudor/report_codeforces_morariu.tudor.html
+```
+
+## Plots
+
+Avalible plots are:
+* Histogram
+* Column by column plot
+* Wordclod
+* Pie chart
+
+## Pictures
+  
