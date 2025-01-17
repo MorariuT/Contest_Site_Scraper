@@ -52,6 +52,13 @@ class GenericScraper():
         '''
         return self.df_submissions
 
+    def save_to_specific_file(self, full_name_path: str):
+        try:
+            self.df_submissions.to_csv(full_name_path, index=False);
+        except Exception as e:
+            print("Save failed e:", str(e));
+
+
     def save_to_file(self, path="./submissions"):
         '''
         Function that saves the dataframe to a file.
