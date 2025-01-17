@@ -31,3 +31,13 @@ Got 1823 entries
 Plotting. Generating output in ./plots/morariu.tudor
 Access this url for result: file:///Users/tudor/Documents/Work AI/Cramschool_HW1/plots/morariu.tudor/report_codeforces_morariu.tudor.html
 ```
+
+## Plots
+
+Avalible plots are:
+* Histogram
+* Column by column plot
+* Wordclod
+* Pie chart
+
+  
