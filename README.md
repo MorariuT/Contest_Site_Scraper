@@ -34,8 +34,8 @@ Access this url for result: file:///Users/tudor/Documents/Work AI/Cramschool_HW1
 
 ## Outputs
 
-The tool generates a `HTML` file for a user-site combination, and places it in ./plots/[username]. 
-The `CSV` files containing the raw data extrated from the contest site are placed in the ./submissions/[username].
+The tool generates a `HTML` file for a user-site combination, and places it in `./plots/[username]`. 
+The `CSV` files containing the raw data extrated from the contest site are placed in the `./submissions/[username]`.
 
 ## Extending the tool
 
