@@ -32,6 +32,15 @@ Plotting. Generating output in ./plots/morariu.tudor
 Access this url for result: file:///Users/tudor/Documents/Work AI/Cramschool_HW1/plots/morariu.tudor/report_codeforces_morariu.tudor.html
 ```
 
+## Extending the tool
+
+The tool was made with modular individual site scrapers. 
+A new site can be adeed by:
+* Extend the GenericScraper class
+* Implement the methods specific to the new site scraper
+* Place your implementation in ./funcs
+* Update the ./utils/config.json with the new site and scraper
+
 ## Plots
 
 Avalible plots are:
