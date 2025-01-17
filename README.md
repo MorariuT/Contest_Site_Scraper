@@ -1,7 +1,7 @@
 # Contest_Site_Scraper
  
 ## Install
-Developed on `Python 3.7.9`
+Developed and tested on `Python 3.7.9`
 ```
 pip3 install -r requirements.txt
 ```
