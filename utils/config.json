@@ -1,0 +1,50 @@
+{
+  "codeforces": [
+    {
+      "name": "codeforces",
+      "root_url": "https://codeforces.com",
+      "format_url": "https://codeforces.com/api/user.status?handle={user}",
+      "dependencies": [
+        "user",
+        "page"
+      ],
+      "scraper": "CFScraper"
+    }
+  ],
+  "infoarena": [
+    {
+      "name": "infoarena",
+      "root_url": "https://www.infoarena.ro",
+      "format_url": "https://www.infoarena.ro/monitor?user={user}&display_entries={dspl_entry}&first_entry={fst_entry}",
+      "dependencies": [
+        "user",
+        "dspl_entry",
+        "fst_entry"
+      ],
+      "scraper": "IAScraper"
+    }
+  ],
+  "kilonova": [
+    {
+      "name": "kilonova",
+      "root_url": "https://kilonova.ro",
+      "format_url": "https://kilonova.ro/profile/{user}",
+      "dependencies": [
+        "user"
+      ],
+      "scraper": "KNScraper"
+    }
+  ],
+  "pbinfo": [
+    {
+      "name": "pbinfo",
+      "root_url": "https://pbinfo.ro",
+      "format_url": "https://www.pbinfo.ro/solutii/user/{user}?start={fst_entry}",
+      "dependencies": [
+        "user",
+        "fst_entry"
+      ],
+      "scraper": "PBScraper"
+    }
+  ]
+}
