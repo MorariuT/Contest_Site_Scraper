@@ -1,8 +1,9 @@
 # Contest_Site_Scraper
  
 ## Install
-Developed and tested on `Python 3.11.9`
+Developed and tested on `Python 3.11.9`. Creata a new env to install the libs.
 ```
+python3 -m venv /path/to/venv
 pip3 install -r requirements.txt
 ```
 
