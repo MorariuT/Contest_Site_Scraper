@@ -41,4 +41,7 @@ Avalible plots are:
 * Pie chart
 
 ## Pictures
-  
+![plot](./screenshots/hist_plot_sub_year_codeforces.png)  
+![plot](./screenshots/pie_chart_sub_year_codeforces.png)  
+![plot](./screenshots/wordcloud_problem_codeforces.png)  
+![plot](./screenshots/wordcloud_tags_codeforces.png)  
