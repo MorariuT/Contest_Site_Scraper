@@ -32,6 +32,11 @@ Plotting. Generating output in ./plots/morariu.tudor
 Access this url for result: file:///Users/tudor/Documents/Work AI/Cramschool_HW1/plots/morariu.tudor/report_codeforces_morariu.tudor.html
 ```
 
+## Outputs
+
+The tool generates a `HTML` file for a user-site combination, and places it in ./plots/[username]. 
+The `CSV` files containing the raw data extrated from the contest site are placed in the ./submissions/[username].
+
 ## Extending the tool
 
 The tool was made with modular individual site scrapers. 
