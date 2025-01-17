@@ -40,4 +40,5 @@ Avalible plots are:
 * Wordclod
 * Pie chart
 
+## Pictures
   
